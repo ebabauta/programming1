@@ -1,0 +1,25 @@
+# Part 1
+```{R}
+myVector <- c(1, 2, 3, 4, 5)
+print(myVector)
+```
+# Part 2
+```{R}
+myString <- "E-Anna Babauta"
+print(myString)
+```
+# Part 3
+```{R}
+HW0P3 <- "574"
+print(HW0P3)
+```
+# Part 4
+```{R}
+thisVariable <- pi^2
+thisVector <- c(thisVariable, thisVariable)
+```
+# Part 5
+```{R}
+myFunction <- matrix(1:9, nrow=3, byrow= TRUE)
+print(myFunction)
+```
